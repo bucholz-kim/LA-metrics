@@ -2,7 +2,7 @@ begin
 ;;----------
 ; Convective Triggering Potential (CTP)
 ;   CTP     =  integral of curve between the moist adiabat and environmental lapse
-!              rate from 100 mb above the ground to 300mb above the ground
+;              rate from 100 mb above the ground to 300mb above the ground
 ;
 ;  References:  ** Original Method **
 ;               Findell, K.L., Eltahir, E.A.B. 2003: Atmospheric Controls on 
