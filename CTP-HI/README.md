@@ -1,6 +1,6 @@
 # CTP-HI code (by NCL)
 
-Figure 2. in [Kim et al. (2023)](http:doi.org/10.1088/1748-9326/acddfb), used by [WRF output](URL/DOI:10.5281/zenodo.7730157).
+Figure 2. in [Kim et al. (2023)](http:doi.org/10.1088/1748-9326/acddfb), used by [WRF output](https://zenodo.org/records/7730157).
 
 FYI for the future study,
 1) Sensitivity for local soil moisture over CONUS [Koster et al. 2016](https://doi.org/10.1175/JCLI-D-16-0192.1),
