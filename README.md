@@ -1,4 +1,4 @@
-# CTP-HI code (by NCL)
+**CTP-HI code (by NCL)**
 
 Figure 2. in [Kim et al. (2023)](http:doi.org/10.1088/1748-9326/acddfb), used by [WRF output]([URL/DOI: 10.5281/zenodo.7730157).
 
