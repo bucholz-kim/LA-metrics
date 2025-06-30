@@ -1,4 +1,4 @@
-# Principal Compnent Analysis (PCA)
+# Principal Component Analysis (PCA)
 
 **PCA with leave-one-out analysis for R-squared**
 
