@@ -8,4 +8,12 @@ FYI for the future study,
 3) Potential way of catching the original source of rainfall for irriation impact: the quasi-isentropic back-trajectory scheme (QIBT) [Dirmeyer et al. 2009](https://doi.org/10.1016/j.jhydrol.2008.11.016).
 
 
-**PCA (for Kim and Dirmeyer, _in revision_)**
+**Principal Component Analysis (PCA for [Kim and Dirmeyer 2025](https://doi.org/10.1175/JHM-D-24-0074.1))**
+
+
+
+
+**Information Theory**
+
+Nomralized Mutural Inforamtion [Kim et al *in prcp*]
++ C01.Signed Area
