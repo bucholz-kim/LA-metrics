@@ -13,7 +13,7 @@ FYI for the future study,
 
 
 
-**Information Theory**
+**Information Theory (IT)**
 
 Nomralized Mutural Inforamtion [Kim et al *in prcp*]
 + C01.Signed Area
