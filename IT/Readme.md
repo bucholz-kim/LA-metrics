@@ -7,5 +7,5 @@
 : checking on both sign and magnitude
 
 + Futher application:
-  CAPE, CIN, CTP, banana plot [Seo and Dirmeyer, 2022](https://doi.org/10.5194/hess-26-5411-2022),
+  CAPE, CIN, CTP, banana plot ([Seo and Dirmeyer, 2022](https://doi.org/10.5194/hess-26-5411-2022)),
   any hystersis between two variables for diurnal, daily, monthly, yearly cycles.
