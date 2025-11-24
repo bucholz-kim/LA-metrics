@@ -14,5 +14,5 @@
 
 
   
-Plan: NMI + Transfer entropy among flux sites, ERA5, Noah-MP (MPAS), and CLM (CESM)
+Future plan: NMI + Transfer entropy among flux sites, ERA5, Noah-MP (MPAS), and CLM (CESM)
 
