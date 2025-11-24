@@ -7,7 +7,7 @@ Fig01. Monthly vairations of SEB: net radation (Rn), latent heat flux (LE), sens
 
 Fig02. Hysteresis between SWC-SEB and SWC-evaporative fraction (EF)
 
-       + Signed area metric: **C01_Signed Area Metric**
++ Signed area metric: **C01_Signed Area Metric**
 
 <img width="200" height="45" alt="image" src="https://github.com/user-attachments/assets/943a6d89-3457-4f40-bc11-9a919481c608" />
         : checking on both sign and magnitude
