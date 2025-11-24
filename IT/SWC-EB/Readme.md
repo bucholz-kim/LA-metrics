@@ -7,6 +7,7 @@
   
   Fig02. Hysteresis between SWC-SEB and SWC-evaporative fraction (EF)
       + Signed Area
+      
       **C01_Signed Area Metric**
       
       <img width="722" height="185" alt="image" src="https://github.com/user-attachments/assets/bde64cc1-93b2-43c9-96ed-5706b94ba0b4" />
