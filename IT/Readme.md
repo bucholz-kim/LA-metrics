@@ -1,11 +1,14 @@
 **Information Theory (IT)**
+* Normalized Mutural Information (NMI)
 
---> SWC-EB: oil Water Content (SWC) and Surface Energy Budget (SEB)**
+  
+
+**SWC-EB: Soil Water Content (SWC) and Surface Energy Budget (SEB)**
   *among flux site observations, reanalyses, and climate models*
 
   + Fig02: Signed area metric
 
-  + Fig04: Nomralized Mutural Inforamtion (NMI) [Kim et al *in prcp*]
+  + Fig04: NMI [Kim et al *in prcp*]
   
 
 
