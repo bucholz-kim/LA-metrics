@@ -22,4 +22,5 @@ Fig03. Same as Fig01 but EF and its ratio by LE and SH
 Fig04. Same as Fig01 but correation (CORR), normalized mutual information (NMI), and linearity by NMI.
        Supplementary Figs 3 and 4 are included.
 
-SFig04. NMI<sub>total</sub> = NMIlinear + NMInonlinear
+SFig04. NMI<sub>total</sub> = NMI<sub>linear</sub> + NMI<sub>nonlinear</sub>
+        Transfer Entropy is included for future study.
