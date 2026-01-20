@@ -5,7 +5,7 @@
    
 
 **SWC-EB: Soil Water Content (SWC) and Surface Energy Budget (SEB)**
-  *among flux site observations, reanalyses, and climate models [Kim et al *in prcp]*
+  *among flux site observations, reanalyses, and climate models [submitted to GRL, Kim et al. ]*
 
   + Fig02: Signed area metric
 
