@@ -15,5 +15,5 @@ FYI for the future study,
 
 **Information Theory (IT)**
 
-Nomralized Mutural Inforamtion  [submitted to GRL, Kim et al. ]
+Nomralized Mutural Inforamtion  [submitted to GRL, Kim et al. ] [dataset: Kim et al. 2026](https://doi.org/10.5281/zenodo.18605016)
 + C01.Signed Area, Correlation (CORR), normalized mutual inforamtion (NMI)
